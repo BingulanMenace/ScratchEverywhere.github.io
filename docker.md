@@ -130,7 +130,7 @@ For example, the `icon.png` file is used as the app icon on consoles like the
   `icon.png`).
 - [GIMP](https://gimp.org) is great for these kinds of things, but you can use
   any image editing software you want.
-- For the Vita's images, you will neet to get
+- For the Vita's images, you will need to get
   [`pngquant`](https://pngquant.org/) and run:
   ```
   cd /path/to/gfx/vita/
